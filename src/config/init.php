@@ -15,3 +15,5 @@ const ADMIN = PATH . '/admin';
 const NO_IMAGES = 'uploads/no_image.png';
 
 require_once ROOT . '/vendor/autoload.php';
+
+require_once HELPERS . '/functions.php';
