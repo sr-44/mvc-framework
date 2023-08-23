@@ -1,6 +1,0 @@
-[2023-08-22 17:54:42] Текст ошибки: Страница не найдена | Файл: /var/www/html/vendor/framework/Router.php | Строка: 48
-======================
-[2023-08-22 17:58:05] Текст ошибки: Контроллер app\controllers\OkController не найден | Файл: /var/www/html/vendor/framework/Router.php | Строка: 62
-======================
-[2023-08-22 17:58:14] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: /var/www/html/vendor/framework/Router.php | Строка: 62
-======================
