@@ -8,7 +8,8 @@ class MainController extends Controller
 {
     public function indexAction()
     {
-        echo __METHOD__;
+        $this->setMeta('Бла-бла-бла', 'Description', 'keywords...');
+        $this->set(["names" => 'ok']);
     }
-
 }
+

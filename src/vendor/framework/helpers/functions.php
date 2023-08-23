@@ -8,3 +8,8 @@ function debug($data, $die = false)
         die();
     }
 }
+
+function h($str): string
+{
+    return htmlspecialchars($str);
+}
